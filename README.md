@@ -1,3 +1,6 @@
+This project is based on ivpy repository. To run the scripts, follow the instructions:
+
+#####ivpy README
 # ivpy
 Iconographic Visualization in Python
 
